@@ -14,6 +14,6 @@ Key | Action
 [🡸] or [A] | left 
 [🡻] or [S] | down
 [🡺] or [D] | right 
-[ ] | stop
+[␣] | stop
 [P] | pause
 [Q] | quit
