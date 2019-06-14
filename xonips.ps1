@@ -786,7 +786,7 @@ function tryMark {
         $c, $r = $coordSt.Pop()
         if (($f[$c, $r] -band $enemyMask) -ne 0 ) {
             $result = $false
-            continue
+            break
         }
         if ($f[$c, $r] -ne $oldMark) {
             continue
